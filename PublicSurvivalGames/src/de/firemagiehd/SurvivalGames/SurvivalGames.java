@@ -13,7 +13,7 @@ public class SurvivalGames {
 	public File msgfile = new File("plugins/SurvivalGames", "config.yml");
 	public FileConfiguration messages = YamlConfiguration.loadConfiguration(cfgfile);
 	
-	asdfasdfasdfawdf
+	hihihihi
 	
 	
 	public void onEnable() {
